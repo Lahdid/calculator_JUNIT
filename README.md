@@ -7,12 +7,14 @@
 ## Original repo : https://github.com/Darkempire78/OpenCalc/tree/main
 
 <div align="left">
-##  JUNIT TESTING
-
-      1- OPEN app/src/test/java/com/darkempire78/opencalculator/
-      2- OPEN ExpressionUnitTest.kt
-      3- Right click on "class ExpressionUnitTest"
-      4- Run 'ExpressionUnitTest'
+<b> JUNIT TESTING </b>
+      
+      1- Build project 
+      2- OPEN app/src/test/java/com/darkempire78/opencalculator/
+      3- OPEN ExpressionUnitTest.kt
+      4- Right click on "class ExpressionUnitTest"
+      5- Run 'ExpressionUnitTest'
+       
 
 
 ## 📜 License
