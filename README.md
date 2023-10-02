@@ -7,7 +7,7 @@
 ## Original repo : https://github.com/Darkempire78/OpenCalc/tree/main
 
 <div align="left">
-<b> JUNIT TESTING </b>
+## <b> JUNIT TESTING </b>
       
       1- Build project 
       2- OPEN app/src/test/java/com/darkempire78/opencalculator/
